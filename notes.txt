@@ -1,0 +1,11 @@
+Usefull commends:
+	yarn create vite .
+	yarn --exact
+	yarn dev
+
+	npx tailwindcss init -p
+
+API Keys:
+	Elevenlabs: e86d989df9f7b7b16ea8c7c75836d817
+	OpenAI: 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
+	OpenAI Org: org-2lCCcnRBetCE1BGF5HVL8Uh1
